@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "device-rotation": "^1.0.3",
+    "splitting": "^1.0.6",
+    "three": "^0.155.0"
+  },
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.0.1",
+    "autoprefixer": "^10.4.16",
+    "lil-gui": "^0.18.2",
+    "vite": "^4.4.9",
+    "vite-plugin-gltf": "^3.1.0"
+  }
+}
