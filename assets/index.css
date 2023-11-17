@@ -9,7 +9,7 @@
 @font-face {
   font-family: 'CommitMono';
   src: url('./commitMonoVariable.woff2') format('woff');
-  font-weight: 600;
+  font-weight: 700;
 }
 
 html {
@@ -46,7 +46,7 @@ body,
 .splash__button {
   font-family: 'CommitMono', monospace;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--text-color);
   line-height: 1.25;
   text-transform: uppercase;
